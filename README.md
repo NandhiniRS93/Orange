@@ -1,7 +1,8 @@
 
  Hi, I'm Nandhini R.S
 
-QA Automation Engineer 
+QA Automation Engineer
+
 visitMeHere: https://claude.ai/public/artifacts/5588bc98-caf0-45c0-b266-a23c49385df6
 Chennai, India | [LinkedIn](https://www.linkedin.com/in/nandhini-rs-945575351/) | orangememine@gmail.com
 
